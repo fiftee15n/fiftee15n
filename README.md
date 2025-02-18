@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiftee15n&label=Profile%20views&color=0e75b6&style=flat" alt="fiftee15n" /> </p>
 
-- 🔭 I’m currently working on **Post Hoc Explainability**
+- 🔭 I’m currently working on **Lung Cancer Detection**
 
-- 🌱 I’m currently learning **Machine Learning & Natural Language Processing**
+- 🌱 I’m currently learning **Advanced Machine Learning**
 
-- 💬 Ask me about **MLDL & NLP**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **tamaljalam15@gmail.com**
 
