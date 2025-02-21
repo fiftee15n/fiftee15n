@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jahangir Alam Tamal</h1>
-<h3 align="center">A researcher from Bangladesh</h3>
+<h3 align="center">Pursuing My B.Sc. in  Computer Science & Engineering from Daffodil International University, Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiftee15n&label=Profile%20views&color=0e75b6&style=flat" alt="fiftee15n" /> </p>
 
