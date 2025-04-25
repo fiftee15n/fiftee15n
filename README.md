@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiftee15n&label=Profile%20views&color=0e75b6&style=flat" alt="fiftee15n" /> </p>
 
-- 🔭 I’m currently working on **VeinBlood _ A Mobile Application & Machine Learning in medical Sector**
+- 🔭 I’m currently working on **Biomedical Engineering.**
 
 - 🌱 I’m currently learning **Advanced Machine Learning**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Artificial Intelligence**
 
 - 📫 How to reach me **tamaljalam15@gmail.com**
 
