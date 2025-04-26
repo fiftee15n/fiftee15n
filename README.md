@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advanced Machine Learning**
 
-- 💬 Ask me about **Artificial Intelligence**
+- 💬 Contact me for  **UI/UX Design & Solution**
 
 - 📫 How to reach me **tamaljalam15@gmail.com**
 
