@@ -9,7 +9,7 @@
 
 - 💬 Contact me for  **UI/UX Design & Solution**
 
-- 📫 How to reach me **tamaljalam15@gmail.com**
+- 📫 How to reach me **mail.jahangiralamtamal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
