@@ -36,3 +36,6 @@
 <p align="center">
   <img src="https://streak-stats.vercel.app/?user=fiftee15n&hide_border=true&background=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316&currStreakNum=F97316&sideLabels=F97316&sideNums=F97316&dates=9CA3AF&stroke=F97316" />
 </p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fiftee15n&theme=github_dark" />
+</p>
