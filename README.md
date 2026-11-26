@@ -26,16 +26,18 @@
 ## 🟠 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiftee15n&show_icons=true&hide_border=true&title_color=F97316&icon_color=F97316&text_color=9CA3AF&bg_color=00000000" />
+  <a href="https://github.com/fiftee15n">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fiftee15n&show_icons=true&hide_border=true&title_color=F97316&icon_color=F97316&text_color=9CA3AF&bg_color=00000000" alt="Jahangir's GitHub stats" />
+  </a>
+  <a href="https://github.com/fiftee15n">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiftee15n&layout=compact&hide_border=true&title_color=F97316&text_color=9CA3AF&bg_color=00000000" alt="Most used programming languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiftee15n&layout=compact&hide_border=true&title_color=F97316&text_color=9CA3AF&bg_color=00000000" />
+  <img width="75%" src="https://streak-stats.vercel.app/?user=fiftee15n&hide_border=true&background=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316&currStreakNum=F97316&sideLabels=F97316&sideNums=F97316&dates=9CA3AF&stroke=F97316" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=fiftee15n&hide_border=true&background=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316&currStreakNum=F97316&sideLabels=F97316&sideNums=F97316&dates=9CA3AF&stroke=F97316" />
-</p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fiftee15n&theme=github_dark" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fiftee15n&theme=github_dark" alt="GitHub contribution summary" />
 </p>
